@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DenisDolgih
 - 👀 I’m interested in javascript, php, python, machine learning, data science etc.
-- 🌱 I’m currently learning react
+- 🌱 I’m constantly learning.
 - 💞️ I’m looking to collaborate on machine learning for the web projects
 - 📫 How to reach me denisdolgih@gmail.com
 
