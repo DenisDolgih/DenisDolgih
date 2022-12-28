@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DenisDolgih
+- 👋 Hi, I’m DenisDolgih
 - 👀 I’m interested in javascript, php, python, machine learning, data science etc.
 - 🌱 I’m constantly learning.
 
